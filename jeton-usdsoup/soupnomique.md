@@ -14,7 +14,7 @@ Nous avons donc décidé d'aller d'une manière différente de la plupart des au
 
 $SOUP aura une offre totale de 1,000,000,000 jetons d'utilité qui seront publiés sur 5 ans.
 
-![Alokasi Token](../.gitbook/assets/soup\_token.png)
+![](../.gitbook/assets/soup\_token.png)
 
 TLes jetons seront attribués comme suit:
 
