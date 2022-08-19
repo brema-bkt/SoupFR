@@ -1,8 +1,8 @@
 # Avis de non-responsabilité
 
-Soup Finance merupakan pasar keuangan lintas-rantai yang terdesentralisasi untuk ekonomi metaverse. Dengan fitur super cepat, super aman untuk ekosistem lintas rantai untuk berbagai blockchain,  transaksi secepat kilat, dan biaya transaksi rendah di Fusion Blockchain.
+Soup Finance est un marché monétaire décentralisé à chaînes croisées pour l'économie métaverse. Il est doté d'un écosystème cross-chain holistique super rapide et incroyablement sécurisé pour plusieurs blockchains, de transactions rapides comme l'éclair et de faibles frais de transaction sur la Fusion Blockchain.
 
-Protokol peminjamannya yang terpadu memungkinkan setiap orang untuk menggunakan aset crypto maupun NFT sebagai jaminan dan meminjamkan NFT tanpa risiko.
+Son protocole de prêt unifié permet à chacun de fournir des jetons fongibles et des jetons non fongibles (NFT) comme garantie, et de prêter des NFT sans risque.
 
 #### Risque lié aux contrats intelligents
 
