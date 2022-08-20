@@ -10,7 +10,7 @@ Les délais de la feuille de route structurée du produit sont les suivants :
 
 ## Q2 2022
 
-* DConception d'applications UI/UX
+* Conception d'applications UI/UX
 * Programme d'incitation pour les premiers utilisateurs.
 * Docs v0.1
 * Lancement Testnet de DeFi Lending.

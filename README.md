@@ -10,7 +10,7 @@ Soup Finance est un marché monétaire crosschain décentralisé pour l'économi
 
 Au cœur de Soup Finance se trouve l'écosystème crosschain holistique ultra-rapide, incroyablement sécurisé pour plusieurs blockchains, des transactions ultra-rapides et des frais de transaction peu élevés sur Fusion Blockchain.
 
-## SOUP PROTOCOL ECOSYSTEM?
+## SOUP PROTOCOLE ECOSYSTEME?
 
 **DEFI USERS**
 
